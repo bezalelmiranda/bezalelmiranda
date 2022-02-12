@@ -1,8 +1,10 @@
 ## Hey eu sou o Bezalel Miranda!
 
-💡  Atualemente sou estudande de Desenvolvimento de Software e Sistemas.
-🚀 Estou em busca da minha primeira oportunidade na área de TI.
-📫 Como você pode me encontar: LinkeIn - https://www.linkedin.com/in/bezalel-miranda-ribeiro-02280a1b5/ 
+- 💡  Atualemente sou estudande de Desenvolvimento de Software e Sistemas.
+- 🚀 Estou em busca da minha primeira oportunidade na área de TI.
+- 📫 Como você pode me encontar: LinkeIn - https://www.linkedin.com/in/bezalel-miranda-ribeiro-02280a1b5/ 
+
+##
 
 <div align="center">
   <a href="https://github.com/bezalelmiranda">
